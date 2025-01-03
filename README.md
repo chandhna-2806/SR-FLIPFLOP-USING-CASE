@@ -49,6 +49,8 @@ Developed by: RegisterNumber: 24900265
 ![de6 (3)](https://github.com/user-attachments/assets/487bb099-f805-4289-999d-424afc51658e)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![de6](https://github.com/user-attachments/assets/181c1ceb-7157-426b-bb30-2f924c04d34b)
+![6 td](https://github.com/user-attachments/assets/beb8a620-a42a-4ca3-9b8e-2fa49fdfde86)
+
 
 **RESULTS**
+thus the output is generated for sr flip flops using quartus.
